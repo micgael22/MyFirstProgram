@@ -1,7 +1,7 @@
 # My First Program
 ## This repository entail the fundamentals and core of Java.
+### I Covered:
 <img align="right" width="400" height="250" src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2012/08/java-logo.jpg">
-:yellow_circle: I Covered: <br />
 :high_brightness: Polymorpishm <br />
 :high_brightness: Dynamic Polymorpishm <br />
 :high_brightness: Encapsulation <br />
