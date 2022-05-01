@@ -76,3 +76,16 @@
 :high_brightness: PrintF Method <br />
 :high_brightness: ToString Method <br />
 :high_brightness: Creating an Audio Player <br />
+
+## Checkout Clean Code:
+### Polymorpishm
+<img align="center" width="600" height="500" src="https://user-images.githubusercontent.com/88590240/166155227-0d4fda21-1eac-4e83-971f-86646b7d62e9.png">
+
+### Scanner
+<img align="center" width="600" height="500" src="https://user-images.githubusercontent.com/88590240/166155245-f0a6baef-24e6-43d0-a040-19f8797aed08.png">
+
+### Thread
+<img align="center" width="600" height="500" src="https://user-images.githubusercontent.com/88590240/166155275-20f6eb46-f62b-467f-b802-d3b01ed75abe.png">
+
+### Radio Button
+<img align="center" width="550" height="500" src="https://user-images.githubusercontent.com/88590240/166155301-a3f973b9-518a-4c95-952c-cfaf30a327e6.png">
